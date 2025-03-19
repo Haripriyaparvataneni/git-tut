@@ -1,2 +1,0 @@
-username=Haripriya
-Password=Haripriya007
